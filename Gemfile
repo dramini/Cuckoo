@@ -2,5 +2,5 @@
 source "https://rubygems.org"
 
 gem 'json'
-gem 'fastlane'
+gem 'fastlane', '>= 2.240.0'
 gem 'cocoapods'
